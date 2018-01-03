@@ -18,7 +18,7 @@ Alphabet
 
 Decryption Key
 
-    ! ) " ( £ * % & > < @ a b c d e f g h i j k l m n o  	
+    ! ) " ( £ * % & > < @ a b c d e f g h i j k l m n <  	
 
 You could also create a encryption program that will encrypt any message 
 you give it using the key.
